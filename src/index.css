@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Rubik', sans-serif;
+}
+
+.addPostForm>input {
+  width: 100%;
+  border: 2px solid black;
+  margin: 5px 0px;
+  padding: 10px;
+}
+
+.addPostForm>button {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100px;
+}
